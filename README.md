@@ -9,3 +9,4 @@ teste 2 de git pull como membro da equipe
 teste
 
 testando regras de branchs
+<p>testando branches</p>
